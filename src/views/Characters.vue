@@ -15,6 +15,7 @@
           <b-card-text>
             {{ character.location.name }}
           </b-card-text>
+          <b-button variant="info">Add to favorites</b-button>
         </b-card>
       </b-col>
     </template>
